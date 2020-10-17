@@ -7,12 +7,13 @@ Interval time.
 Id of an html where you want to perform this animation.
 
 For example: -
-
+<pre>
 <script>
 window.onload = function(){
 new Pratik_GT_textAp("hello world!", 100, "mytext");
 }
 </script>
+</pre>
 Dont forget to link the PratikGTJsLib.js file.
 
 It takes the string and split it's all single characters and stores in list. Then displays single single character.
