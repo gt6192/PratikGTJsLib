@@ -8,6 +8,9 @@ Id of an html where you want to perform this animation.
 
 For example: -
 <pre>
+<code>
+<h1 id="mytext"></h1>
+</code>
 <script>
 window.onload = function(){
 new Pratik_GT_textAp("hello world!", 100, "mytext");
