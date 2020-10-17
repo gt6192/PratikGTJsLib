@@ -4,7 +4,7 @@ This class is used to creat a text animation, for example it takes one text and 
 It takes three parameters: -
 Text.
 Interval time.
-Id of an html where you want to perform this animation.
+Id of an html element where you want to perform this animation.
 
 For example: -
 <pre>
