@@ -15,6 +15,6 @@ new Pratik_GT_textAp("hello world!", 100, "mytext");
 }
 </script>
 </pre>
-Dont forget to link the PratikGTJsLib.js file.
+Dont forget to link the Pratik_GT_textAp.js file.
 
 It takes the string and split it's all single characters and stores in list. Then displays single single character.
