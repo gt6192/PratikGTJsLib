@@ -8,7 +8,6 @@ Id of an html where you want to perform this animation.
 
 For example: -
 <pre>
-<h1 id="mytext"></h1>
 <script src="https://gt6192.github.io/PratikGTJsLib/Pratik_GT_textAp.js"><script>
 <script>
 window.onload = function(){
