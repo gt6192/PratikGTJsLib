@@ -3,14 +3,22 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>GT Text Appear</title>
+        <link rel="stylesheet" type="text/css" href="PratikGTpopNotify.css" />
     </head>
     <body>
         <h1 id="myid"></h1>
         <p style="width: 20%;"><b id="myp"></b></p><br>
         <button onclick="myanim()">Start animation</button>
+        <br><br>
+        <button onclick="new Pratik_GT_popNotify('message','hi welcome to my web-site')">message</button>
+        <br><br>
+        <button onclick="new Pratik_GT_popNotify('success','hi welcome to my web-site')">success</button>
+        <br><br>
+        <button onclick="new Pratik_GT_popNotify('error','hi welcome to my web-site')">error</button>
     </body>
 
     <script src="Pratik_GT_textAp.js"></script>
+    <script src="PratikGTpopNotify.js"></script>
     <script>
         function myanim()
         {
